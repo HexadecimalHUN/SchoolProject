@@ -1,0 +1,12 @@
+/* Silence is golden */
+.header-banner {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(353deg, #a71d31 50%, #3f0d12 30%);
+    z-index: 0;
+  }

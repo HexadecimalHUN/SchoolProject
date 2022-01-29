@@ -1,0 +1,28 @@
+@media screen and (max-width: 768px) {
+    nav.main .logo{
+        font-size: x-large;
+    }
+   
+}
+a {
+    color: #E5E5E5;
+}
+.nav{
+  
+    width: 130px;
+    background-color:#14213D ;
+    height: 100%;
+    position: fixed;
+    overflow: auto;
+  
+  
+}
+.logo{
+    background:url(../../../assets/images/logoimage.png);
+    float: left;
+    width: 90px;
+    height: 90px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
